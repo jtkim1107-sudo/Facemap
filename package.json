@@ -1,0 +1,7 @@
+{
+  "name": "facemap-baby-star-proposal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "아이를 기다리는 엄마를 위한 초음파 기반 아기 얼굴 서비스 제안",
+  "scripts": {"start": "node server.cjs", "check": "node scripts/check.cjs"}
+}

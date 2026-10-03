@@ -1,0 +1,13 @@
+imports/
+site-checkout/
+site-deploy/
+*.tar.gz
+*.tar
+update-demo.cjs
+prepare-proposal.cjs
+update-points.cjs
+github-create.cjs
+prototype/preview.png
+node_modules/
+.env
+.env.*

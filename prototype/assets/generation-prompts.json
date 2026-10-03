@@ -1,0 +1,24 @@
+{
+  "tool": "built-in image_gen",
+  "first": "Use case: photorealistic-natural. Asset: square sample portrait for a Korean baby keepsake web demo. Create a fictional newborn of Korean appearance asleep comfortably on ivory linen, fully wrapped in cream cotton swaddle, short fine dark hair, softly rounded cheeks, small natural nose and closed relaxed lips, eyes closed, face angled slightly toward camera. Close editorial newborn portrait, face large and clear, warm natural window light, real delicate skin texture, elegant cream background. No text, no watermark, no ultrasound, no medical claims. This fictional portrait will be the consistent reference for subsequent costume scenes.",
+  "variants": [
+    [
+      "space",
+      "Keep this exact fictional newborn's face, closed eyes, dark hair, proportions and facial identity. Change clothing and setting only: photorealistic high-end newborn studio photograph wearing a soft ivory knitted astronaut costume with small gold details, face unobstructed, lying safely in a padded crescent moon photography prop, navy studio backdrop with softly out of focus warm star lights. Baby's head fully supported. Close medium square portrait, face prominent. Real fabric, real skin, photographic camera lighting. No illustration, no cartoon, no text, no helmet covering face."
+    ],
+    [
+      "story",
+      "Keep this exact fictional newborn's face, closed eyes, dark hair, proportions and facial identity. Change clothing and setting only: photorealistic luxury newborn studio photograph, soft sage green knit romper, lying safely on thick cream padding in a wicker bassinet amid an enchanted woodland photography set with softly blurred tiny mushroom props and warm fairy lights. Face prominent and unobstructed. Head fully supported. Square close medium portrait, realistic skin and fabrics, real photographic lighting. No illustration, no cartoon, no text."
+    ],
+    [
+      "season",
+      "Keep this exact fictional newborn's face, closed eyes, dark hair, proportions and facial identity. Change clothing and setting only: photorealistic high-end spring newborn studio photograph, pale blush cotton swaddle, lying safely on padded ivory quilt with cherry blossom branches framing the background, warm sunlight and gentle pink bokeh. Face prominent, head fully supported. Square close medium portrait, realistic camera photograph and delicate skin. No illustration, no cartoon, no text."
+    ]
+  ],
+  "assets": [
+    "assets/first.png",
+    "assets/space.png",
+    "assets/story.png",
+    "assets/season.png"
+  ]
+}
