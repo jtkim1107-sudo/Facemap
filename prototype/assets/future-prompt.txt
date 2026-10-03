@@ -1,0 +1,3 @@
+Tool: built-in image_gen
+Output: future.png
+Use case: photorealistic-natural. Create a square editorial portrait photograph of one entirely fictional Korean young adult woman around age 22, for a parent's future-child imagination demo. A gentle natural smile, natural dark hair, clear warm brown eyes, minimal makeup, simple ivory crewneck top, warm beige seamless studio background. Real skin texture, natural soft daylight, head and upper torso, centered, sophisticated family album photography. No text, no watermark, no exaggerated beauty filters. This is a separate fictional sample of an imagined grown-up child, not a verified prediction or reconstruction of any real person.

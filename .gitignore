@@ -6,6 +6,8 @@ site-deploy/
 update-demo.cjs
 prepare-proposal.cjs
 update-points.cjs
+extend-future.cjs
+demo/*-demo.png
 github-create.cjs
 prototype/preview.png
 node_modules/
