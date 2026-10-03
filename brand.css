@@ -24,3 +24,4 @@ nav button.active{color:#9a7056;border-bottom-color:var(--brand)}
 button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline-color:#9a7056}
 footer{color:#8b8277}dialog::backdrop{background:#30251980}
 @media(max-width:720px){header{padding-left:18px;padding-right:18px}.layout{min-height:calc(100vh - 72px)}}
+.service-choice{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 22px}.service-choice button{border:1px solid #e3ddd5;background:#fff;border-radius:14px;padding:17px;text-align:left;color:#727375}.service-choice .selected{border:2px solid #b18b6c;padding:16px;background:#fbf8f4;color:#76543d}.service-choice span{display:block;font-size:16px;font-weight:750}.service-choice small{display:block;margin-top:5px;font-size:12px}@media(max-width:480px){.service-choice button{padding:12px}.service-choice .selected{padding:11px}.service-choice span{font-size:14px}.service-choice small{font-size:11px}}
