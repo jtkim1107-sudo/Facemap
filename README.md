@@ -1,5 +1,15 @@
 # Facemap · 아기별 관측소
 
+제안용 사이트: https://jtkim1107-sudo.github.io/Facemap/
+
+GitHub Pages는 `gh-pages` 브랜치 루트에서 배포됩니다. 화면 수정 후 `main`에 커밋하고 다음 명령으로 배포 브랜치를 업데이트합니다.
+
+```sh
+git subtree split --prefix prototype -b pages-release
+git push origin pages-release:gh-pages
+git branch -D pages-release
+```
+
 아이를 기다리는 부모와 아이를 키우는 부모를 위한 새로운 서비스 제안입니다. 얼굴이 잘 나온 입체 초음파 사진을 참고해 아기의 모습을 사실적인 사진처럼 먼저 만나보고, 기다리는 시간을 추억으로 간직하는 경험을 제안합니다.
 
 ## 핵심 경험

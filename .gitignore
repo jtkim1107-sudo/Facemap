@@ -9,6 +9,7 @@ update-points.cjs
 extend-future.cjs
 demo/*-demo.png
 github-create.cjs
+github-pages.cjs
 prototype/preview.png
 node_modules/
 .env
