@@ -7,6 +7,7 @@ update-demo.cjs
 prepare-proposal.cjs
 update-points.cjs
 extend-future.cjs
+improve-ultrasound.cjs
 demo/*-demo.png
 github-create.cjs
 github-pages.cjs
